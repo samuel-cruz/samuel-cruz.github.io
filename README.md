@@ -1,2 +1,2 @@
-# samuelcruz.github.io
+https://samuelcruz.github.io/
 Meu curriculum
